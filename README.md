@@ -287,7 +287,10 @@ footer {
 ```
 
 ## OUTPUT:
-![alt text](env.png)
-![alt text](rest.png)
+![env](https://github.com/user-attachments/assets/1de38c06-d240-4b21-959b-347050f4e735)
+![rest (1)](https://github.com/user-attachments/assets/ab837d37-95a2-44c6-91d7-58fc7f1a5eb9)
+
+
+
 ## RESULT:
 The program for designing software company website usi
